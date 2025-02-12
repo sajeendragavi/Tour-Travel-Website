@@ -11,7 +11,7 @@ function SignUp(){
             <Hero
                 cName = "hero-mid"
                 heroImg = {SignUpImg}
-                title = "Sign Up"
+                title = "Sign Up |Login"
             />
             <LoginSignUp/>
             <Footer/>

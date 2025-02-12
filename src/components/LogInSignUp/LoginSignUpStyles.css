@@ -98,13 +98,49 @@
     color:#676767
 }
 
-@media screen and(max-width: 850px) {
+@media screen and (max-width: 850px) {
     .container{
-        margin: 4rem 2rem;
+        margin:auto;
+        width: 90%;
+        max-width: 400px;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .header{
-        margin: 4rem 2rem;
+        margin: 2rem 1rem;
+        text-align: center;
+    }
+
+    .inputs{
+        width: 90%;
+        margin: auto;
+        justify-content: center;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    .input input{
+        width: 90%; 
+        margin: auto;
+        padding-top: 2rem;
+        
+        
+    }
+    .submit-container{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin: 1rem auto;
+        text-align: center;
+        padding: 1rem;
+        
+    }
+    .submit{
+        padding: 1rem;
+
     }
     
 }

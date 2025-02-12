@@ -47,7 +47,7 @@
     padding: .9rem 0 .2rem 0;
 }
 
-@media screen and(max-width:850px){
+@media screen and (max-width:850px){
     .trip{
         margin: 4rem 2rem;
 

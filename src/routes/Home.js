@@ -15,7 +15,7 @@ function Home(){
         text = "Discover, Experience, Enjoy"
         
         buttonText = "Travel Plan"
-        url = "/https://www.tripadvisor.com/Trips?tt=54c80a80-e216-4ef3-a604-bee1e92af3e9"
+        url = "https://www.tripadvisor.com/Trips?tt=54c80a80-e216-4ef3-a604-bee1e92af3e9"
         btnClass = "show"
         textd = "Choose your favourite destinations"
 

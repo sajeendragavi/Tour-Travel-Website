@@ -1,7 +1,8 @@
 .container{
     display: flex;
     flex-direction: column;
-    width: 600px;
+    width: 100%;
+    max-width: 400px;
     margin: auto;
     margin-top: 50px;
     background: #fff;
@@ -25,6 +26,8 @@
 }
 
 .inputs{
+    width: 100%;
+    max-width: 400px;
     margin-top: 55px;
     display: flex;
     flex-direction: column;
@@ -111,18 +114,21 @@
     }
 
     .header{
-        margin: 2rem 1rem;
+        margin: 2rem 1rem;  
         text-align: center;
     }
 
     .inputs{
-        width: 90%;
-        margin: auto;      
-        padding: 1rem;
+        width: 100%;
+        max-width: 400px;
+              
+       
     }
 
     .inputs input{
-        width: 90%; 
+        width: 100%; 
+        max-width: 100%;
+        box-sizing: border-box;
         margin: auto;
         padding: 1rem;
         
@@ -134,7 +140,7 @@
         width: 100%;
         margin: 1rem auto;
         text-align: center;
-        padding: 1rem;
+        padding: 1rem 0;
         
     }
     .submit{

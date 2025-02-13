@@ -7,8 +7,8 @@ const Footer = () => {
 
             <div className="top">
                 <div>
-                    <h1>RusCey Tours</h1>
-                    <p>Choose your favourite destination.</p>
+                    <h1>Rus Cey Tours</h1>
+                    <p>Connecting cultures, Discovering beauty</p>
                 </div>
 
                 <div>

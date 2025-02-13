@@ -20,7 +20,7 @@ const Navbar =() =>{
 
         return (
             <nav className="NavbarItems">
-                <h1 className="navbar-logo">RusCey Tours</h1>
+                <h1 className="navbar-logo">Rus Cey Tours</h1>
 
                 <div className="menu-icons" onClick={handleClick}>
                     <

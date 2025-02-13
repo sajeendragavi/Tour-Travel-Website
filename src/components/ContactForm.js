@@ -4,7 +4,7 @@ function ContactForm(){
     return (
         <div className="form-container">
             <h1>Send a message to us!</h1>
-            <form action="https://formspree.io/f/xbldapvq" method="POST">
+            <form action="https://formspree.io/f/movjnpge" method="POST">
                 <input name="name" placeholder="Name" required/>
                 <input name="email" placeholder="Email" required/>
                 <input name="subject" placeholder="Subject" required/>

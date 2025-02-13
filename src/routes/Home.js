@@ -13,10 +13,11 @@ function Home(){
         heroImg = "https://images.unsplash.com/photo-1568918756300-c011aed10362?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         title = "Sri Lanka Awaits"
         text = "Discover, Experience, Enjoy"
-        textd = "Choose your favourite destinations"
+        
         buttonText = "Travel Plan"
-        url = "/"
+        url = "/https://www.tripadvisor.com/Trips?tt=54c80a80-e216-4ef3-a604-bee1e92af3e9"
         btnClass = "show"
+        textd = "Choose your favourite destinations"
 
         />
 
